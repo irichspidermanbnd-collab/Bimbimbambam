@@ -1,0 +1,6 @@
+{
+  "name": "SixtyFour",
+  "description": "An interactive chess tips publication and study board covering openings, tactical motifs, and endgame essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
